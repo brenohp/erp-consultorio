@@ -63,4 +63,4 @@ Este documento detalha os passos para o desenvolvimento do nosso ERP de consult�
 - Atualizações contínuas conforme feedback dos clientes
 
 ## Considerações Finais
-Este é o ponto de partida para a construção do ERP de consultório. A arquitetura modular permite futuras expansões e novas funcionalidades conforme a necessidade dos clientes.
+Este é a estruturação para a construção do ERP de consultório. A arquitetura modular permite futuras expansões e novas funcionalidades conforme a necessidade dos clientes.
