@@ -21,13 +21,13 @@ export default function MenuHorizontal() {
 
   return (
     <nav
-      className="bg-[#0000FF] text-white px-6 py-3 flex justify-between items-center shadow-lg"
+      className="bg-[#1E90FF] text-white px-6 py-3 flex justify-between items-center shadow-lg"
       tabIndex={-1} // Evita que o menu receba foco
     >
       {/* Logo (maior) */}
       <div className="text-2xl font-extrabold">
         <span className="text-white">Clinical</span>
-        <span className="text-blue-300">App</span>
+        <span className="text-blue-900">App</span>
       </div>
 
       {/* Abas do Menu (mais espaçadas) */}
