@@ -179,4 +179,4 @@ async login(@Body() loginDto: LoginDto) {
 - Configure o webhook para disparar mensagens automáticas de lembrete.
 
 ---
-Agora que o ambiente está configurado, podemos ir implementando cada funcionalidade! 🚀
+Agora que o ambiente está configurado, é só utilizar!
